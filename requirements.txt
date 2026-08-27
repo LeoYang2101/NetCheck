@@ -1,0 +1,4 @@
+# NetCheck GUI runtime dependency.
+# The detection engine (netcheck.py / netmetrics.py) is pure standard library;
+# only the desktop GUI needs Qt.
+PySide6>=6.6
